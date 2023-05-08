@@ -1,0 +1,43 @@
+{
+    "navbar":{
+        "technologies": "Technologies",
+        "portfolio": "Portfolio",
+        "gigs": "Fiverr Gigs",
+        "about": "About Me"
+    },
+    "hero":{
+        "consultant": "Consultant.",
+        "programmer": "Programmer.",
+        "subtitle": "30 years of experience in the IT Industry."
+    },
+    "technologies":{
+        "title": "Technologies",
+        "subtitle": "Full Stack Knowledge and Experience",
+        "tech-1": "PYTHON",
+        "tech-1-sub": "Including DJANGO & FLASK.",
+        "tech-2": "JavaScript",
+        "tech-2-sub": "Including ReactJS",
+        "tech-3": "Infraestructure",
+        "tech-3-sub": "Including Linux, Cloud, Virtualization & Databases.",
+        "tech-4": "Legacy Systems",
+        "tech-4-sub": "Including HP-UX & OpenVMS."
+    },
+    "portfolio":{
+        "title": "Portfolio",
+        "subtitle": "Some examples of my creations.",
+        "feature-1": "Landing Pages",
+        "feature-1-sub": "Links to sample pages (real & fantasy):",
+        "feature-2": "Applications",
+        "feature-2-sub": "Github Links:"
+    },
+    "about":{
+        "title": "ABOUT ME:",
+        "p-1": "I've been working in the Information Technology Industry since 1992.",
+        "p-2": "I have work for small companies, large corporation and I have also run my own bussines.",
+        "p-3": "I consider myself a life long learner, and I regularly assist to training on new technologies.",
+        "p-4": "I am open to work as a freelance consultant and developer. "
+    },
+    "footer": {
+        "rights": "All rights reserved."
+    }
+}

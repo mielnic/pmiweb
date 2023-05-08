@@ -1,0 +1,43 @@
+{
+    "navbar":{
+        "technologies": "Tecnologías",
+        "portfolio": "Portfolio",
+        "gigs": "Fiverr Gigs",
+        "about": "Acerca de Mí"
+    },
+    "hero":{
+        "consultant": "Consultor.",
+        "programmer": "Programador.",
+        "subtitle": "30 años de experiencia en la industria IT."
+    },
+    "technologies":{
+        "title": "Tecnologías",
+        "subtitle": "Experiencia y Conocimiento Full Stack",
+        "tech-1": "PYTHON",
+        "tech-1-sub": "Incluyendo DJANGO y FLASK.",
+        "tech-2": "JavaScript",
+        "tech-2-sub": "Incluyendo ReactJS",
+        "tech-3": "Infraestructura",
+        "tech-3-sub": "Incluyendo Linux, Cloud, Virtualización y Bases de Datos.",
+        "tech-4": "Sistemas Legacy",
+        "tech-4-sub": "Incluyendo HP-UX y OpenVMS."
+    },
+    "portfolio":{
+        "title": "Portfolio",
+        "subtitle": "Algunos ejemplos de mis creaciones.",
+        "feature-1": "Landing Pages",
+        "feature-1-sub": "Links a páginas de ejemplo (o reales):",
+        "feature-2": "Aplicaciones",
+        "feature-2-sub": "Links a Github:"
+    },
+    "about":{
+        "title": "ACERCA DE MI:",
+        "p-1": "Trabajo en la industria de Tecnología de la información desde 1992.",
+        "p-2": "Mi experiencia incluye empresas pequeñas, corporaciones multinacionales y emprendimientos propios.",
+        "p-3": "Me considero un aprendiz perenne y me capacito permanentemente en nuevas tecnologías y tendencias de la industria.",
+        "p-4": "Estoy abierto a trabajos “Freelance” de consultoría y desarrollo en mis areas de conocimiento. "
+    },
+    "footer": {
+        "rights": "Todos los derechos reservados."
+    }
+}
