@@ -1,13 +1,13 @@
 {
     "navbar":{
         "technologies": "Technologies",
-        "portfolio": "Portfolio",
+        "portfolio": "Projects",
         "gigs": "Fiverr Gigs",
         "about": "About Me"
     },
     "hero":{
         "consultant": "Consultant.",
-        "programmer": "Programmer.",
+        "programmer": "Developer.",
         "subtitle": "30 years of experience in the IT Industry."
     },
     "technologies":{
@@ -23,12 +23,8 @@
         "tech-4-sub": "Including HP-UX & OpenVMS."
     },
     "portfolio":{
-        "title": "Portfolio",
-        "subtitle": "Some examples of my creations.",
-        "feature-1": "Landing Pages",
-        "feature-1-sub": "Links to sample pages (real & fantasy):",
-        "feature-2": "Applications",
-        "feature-2-sub": "Github Links:"
+        "feature-1": "MateApp.ar",
+        "feature-1-sub": "I am currently working on a project called MateApp.ar. Feel free to learn more about it!"
     },
     "about":{
         "title": "ABOUT ME:",

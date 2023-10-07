@@ -19,6 +19,7 @@ import linkedin from "./linkedin.svg";
 import github from "./github.svg";
 import discord from "./discord.svg";
 import profile from "./Foto-PM-Cuadrada-256.jpg";
+import mateapp from "./mateapp.png";
 
 export {
   menu,
@@ -42,4 +43,5 @@ export {
   github,
   discord,
   profile,
+  mateapp,
 };

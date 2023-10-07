@@ -23,11 +23,13 @@ function App() {
         </div>
       </div>
 
+      
       <div className={`bg-secondary ${styles.paddingX} ${styles.flexStart}`}>
         <div className={`${styles.boxWidth}`}>
-          <Technologies />
+          <Gigs />
+        </div>
       </div>
-      </div>
+
 
       <div className={`bg-white ${styles.paddingX} ${styles.flexStart}`}>
         <div className={`${styles.boxWidth}`}>
@@ -37,14 +39,14 @@ function App() {
 
       <div className={`bg-secondary ${styles.paddingX} ${styles.flexStart}`}>
         <div className={`${styles.boxWidth}`}>
-          <Gigs />
+          <About />
         </div>
       </div>
 
       <div className={`bg-white ${styles.paddingX} ${styles.flexStart}`}>
         <div className={`${styles.boxWidth}`}>
-          <About />
-        </div>
+          <Technologies />
+      </div>
       </div>
 
       <div className={`bg-secondary ${styles.paddingX} ${styles.flexStart}`}>

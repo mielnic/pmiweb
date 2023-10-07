@@ -1,4 +1,4 @@
-import {fiverr_icon, github, freelancer, linkedin, discord} from "../assets";
+import {fiverr_icon, github, linkedin, discord} from "../assets";
 
 export const navLinks = [
   {
@@ -19,83 +19,43 @@ export const navLinks = [
   },
 ];
 
-  export const landingPages = [
-    {
-      id: "landing-1",
-      title: "Ztech",
-      link: "https://www.ztechsys.com.ar",
-    },
-    {
-      id: "landing-2",
-      title: "Fishing Lodge",
-      link: "http://lodge.mielnichuk.com.ar",
-    },
-    {
-      id: "landing-3",
-      title: "Hobbies",
-      link: "http://hobbies.mielnichuk.com.ar",
-    },
-    {
-      id: "landing-4",
-      title: "Restaurant",
-      link: "http://restaurant.mielnichuk.com.ar",
-    },
-  ];
-
   export const apps = [
     {
       id: "app-1",
-      title: "CRM",
-      link: "https://github.com",
-    },
-    {
-      id: "app-2",
-      title: "Club App",
-      link: "https://github.com",
+      title: "www.mateapp.ar",
+      link: "https://www.mateapp.ar",
     },
   ];
 
   export const gigs = [
     {
       id: "gig-1",
-      title: "Landing Page",
-      link: "https://fiverr.com"
+      title: "Timesheet",
+      link: "https://www.fiverr.com/s/zjAW5b"
     },
     {
       id: "gig-2",
-      title: "CRM",
-      link: "https://fiverr.com"
+      title: "Directory",
+      link: "https://www.fiverr.com/s/AWGyWB"
     },
     {
       id: "gig-1",
-      title: "Club App",
-      link: "https://fiverr.com"
+      title: "App Development",
+      link: "https://www.fiverr.com/s/8jxz9o"
     },
   ];
 
   export const footerLinks = [
     {
-      title: "Portfolio",
+      title: "Projects",
       links: [
         {
           name: "Ztech",
           link: "https://www.ztech.com.ar",
         },
         {
-          name: "Fishing Lodge",
-          link: "https://lodge.alphaworks.com.ar",
-        },
-        {
-          name: "Restuarant",
-          link: "https://restaurant.alphaworks.com.ar",
-        },
-        {
-          name: "Estudio Rosellini",
-          link: "https://www.rosellini.com",
-        },
-        {
-          name: "Los Gurises",
-          link: "https://losgurises.alphaworks.com.ar",
+          name: "MateApp",
+          link: "https://www.mateapp.ar",
         },
       ],
     },
@@ -104,7 +64,7 @@ export const navLinks = [
       links: [
         {
           name: "Linkedin",
-          link: "https://www.linkedin.com/paulo-mielnichuk",
+          link: "https://www.linkedin.com/in/paulo-mielnichuk",
         },
         {
           name: "Discord",
@@ -117,15 +77,19 @@ export const navLinks = [
       ],
     },
     {
-      title: "Bussines",
+      title: "Business",
       links: [
         {
-          name: "Freelancer.com",
-          link: "https://www.freelancer.com",
+          name: "Fiverr",
+          link: "https://www.fiverr.com/paulomielnichuk",
         },
         {
-          name: "Fiverr",
-          link: "https://www.fiverr.com",
+          name: "Upwork",
+          link: "https://www.upwork.com/freelancers/~0165fa96a68fad6aca?viewMode=1",
+        },
+        {
+          name: "Freelancer.com",
+          link: "https://www.freelancer.com/u/pmielnichuk?frm=pmielnichuk&sb=t",
         },
       ],
     },
@@ -135,26 +99,21 @@ export const navLinks = [
     {
       id: "social-media-1",
       icon: linkedin,
-      link: "https://www.linkedin.com/",
+      link: "https://www.linkedin.com/in/paulo-mielnichuk",
     },
     {
       id: "social-media-2",
       icon: github,
-      link: "https://www.github.com/",
+      link: "https://github.com/mielnic",
     },
     {
       id: "social-media-3",
       icon: discord,
-      link: "https://www.discord.com/",
+      link: "https://discord.gg/guv9ps4rUv",
     },
     {
       id: "social-media-4",
       icon: fiverr_icon,
-      link: "https://www.fiverr.com/",
-    },
-    {
-      id: "social-media-5",
-      icon: freelancer,
-      link: "https://www.freelancer.com/",
+      link: "https://www.fiverr.com/paulomielnichuk",
     },
   ];

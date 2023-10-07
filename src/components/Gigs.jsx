@@ -12,7 +12,7 @@ const Gigs = () => {
             </div>
           {gigs.map((gig, index) => (
             <div key={gig.title} className={`flex ${styles.flexCenter} font-poppins font-normal text-[27px] hover:text-grey cursor-pointer sm:min-w-[192px] min-w-[120px]`}>
-              <p className='flex flex-row'>{gig.title} <img src={arrow} alt="arrow"/></p>
+              <a className='flex flex-row' href={gig.link}>{gig.title}<img src={arrow} alt="arrow"/></a>
             </div>
           ))}
           </div>
