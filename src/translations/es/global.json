@@ -2,13 +2,16 @@
     "navbar":{
         "technologies": "Tecnologías",
         "portfolio": "Proyectos",
-        "gigs": "Fiverr Gigs",
+        "gigs": "Upwork",
         "about": "Acerca de Mí"
     },
     "hero":{
         "consultant": "Consultor.",
         "programmer": "Desarrollador.",
         "subtitle": "30 años de experiencia en la industria IT."
+    },
+    "gigs":{
+        "title": "Mi Perfil en Upwork"
     },
     "technologies":{
         "title": "Tecnologías",

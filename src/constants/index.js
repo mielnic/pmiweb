@@ -1,4 +1,4 @@
-import {fiverr_icon, github, linkedin, discord} from "../assets";
+import {fiverr_icon, github, linkedin, discord, upwork_icon} from "../assets";
 
 export const navLinks = [
   {
@@ -30,18 +30,8 @@ export const navLinks = [
   export const gigs = [
     {
       id: "gig-1",
-      title: "Timesheet",
-      link: "https://www.fiverr.com/s/zjAW5b"
-    },
-    {
-      id: "gig-2",
-      title: "Directory",
-      link: "https://www.fiverr.com/s/AWGyWB"
-    },
-    {
-      id: "gig-1",
-      title: "App Development",
-      link: "https://www.fiverr.com/s/8jxz9o"
+      title: "gigs.title",
+      link: "https://www.upwork.com/freelancers/mielnic"
     },
   ];
 
@@ -49,10 +39,6 @@ export const navLinks = [
     {
       title: "Projects",
       links: [
-        {
-          name: "Ztech",
-          link: "https://www.ztech.com.ar",
-        },
         {
           name: "MateApp",
           link: "https://www.mateapp.ar",
@@ -79,10 +65,6 @@ export const navLinks = [
     {
       title: "Business",
       links: [
-        {
-          name: "Fiverr",
-          link: "https://www.fiverr.com/paulomielnichuk",
-        },
         {
           name: "Upwork",
           link: "https://www.upwork.com/freelancers/~0165fa96a68fad6aca?viewMode=1",
@@ -113,7 +95,7 @@ export const navLinks = [
     },
     {
       id: "social-media-4",
-      icon: fiverr_icon,
-      link: "https://www.fiverr.com/paulomielnichuk",
+      icon: upwork_icon,
+      link: "https://www.upwork.com/freelancers/mielnic",
     },
   ];

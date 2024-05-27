@@ -20,6 +20,8 @@ import github from "./github.svg";
 import discord from "./discord.svg";
 import profile from "./Foto-PM-Cuadrada-256.jpg";
 import mateapp from "./mateapp.png";
+import upwork from "./upwork.svg";
+import upwork_icon from "./upwork_icon.svg"
 
 export {
   menu,
@@ -44,4 +46,6 @@ export {
   discord,
   profile,
   mateapp,
+  upwork,
+  upwork_icon,
 };
